@@ -1,0 +1,10 @@
+This is the source code for the Task Manager app in the Udemy NodeJS course.
+
+The app is a basic To-do list API, built to demonstrate: 
+
+- Express web server
+- Mongoose for mapping models to MongoDB
+- Validator for checking user input
+- User Authentication using bcryptjs and JWT
+- Sendgrid API for sending a welcome email on signup
+- Multer and Sharp for allowing file uploads
