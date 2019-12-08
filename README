@@ -8,3 +8,4 @@ The app is a basic To-do list API, built to demonstrate:
 - User Authentication using bcryptjs and JWT
 - Sendgrid API for sending a welcome email on signup
 - Multer and Sharp for allowing file uploads
+- Jest for automated testing
